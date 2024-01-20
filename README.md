@@ -5,7 +5,7 @@
 演示视频2：待上传  <br/>
 完成时间：2024年1月20日 <br/>
 
-#### [博主开发的酒店管理系统](https://liuyanzhao.com/shop.html?k=酒店)
+#### [博主开发的其他所有酒店管理系统](https://liuyanzhao.com/shop.html?k=酒店)
 
 ## 功能组成
 - 主要功能模块
