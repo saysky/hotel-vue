@@ -1,8 +1,12 @@
 # SpringBoot Vue 酒店预订管理系统
 基于SpringBoot Vue 酒店预订管理系统
 [详细说明](https://liuyanzhao.com/shop/hotel-vue.html) <br/>
-演示视频1：B站地址：待上传 <br/>
-演示视频2：待上传  <br/>
+#### 演示地址：
+  前台页面 ：http://hotel-portal.liuyanzhao.com <br/>
+  后台管理 ：http://hotel-manage.liuyanzhao.com﻿ <br/>
+####  演示视频：
+演示视频1：B站地址：https://www.bilibili.com/video/BV15c411x7EN﻿ <br/>
+演示视频2：https://pan.baidu.com/s/1PkgC6kx90shRskENWE-l-w?pwd=9LJ3  <br/>
 完成时间：2024年1月20日 <br/>
 
 #### [博主开发的其他所有酒店管理系统](https://liuyanzhao.com/shop.html?k=酒店)
