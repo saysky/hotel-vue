@@ -4,6 +4,7 @@
 #### 演示地址：
   前台页面 ：http://hotel-portal.liuyanzhao.com <br/>
   后台管理 ：http://hotel-manage.liuyanzhao.com﻿ <br/>
+  测试账号：管理员admin、客户zhangsan、酒店前台mayun，密码都是123456 <br/>
 ####  演示视频：
 演示视频1：B站地址：https://www.bilibili.com/video/BV15c411x7EN﻿ <br/>
 演示视频2：https://pan.baidu.com/s/1PkgC6kx90shRskENWE-l-w?pwd=9LJ3  <br/>
