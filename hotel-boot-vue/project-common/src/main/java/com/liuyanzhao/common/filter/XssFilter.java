@@ -74,4 +74,3 @@ public class XssFilter implements Filter
     {
 
     }
-}

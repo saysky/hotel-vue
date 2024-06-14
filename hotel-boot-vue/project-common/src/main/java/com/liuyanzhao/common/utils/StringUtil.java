@@ -79,4 +79,3 @@ public class StringUtil extends StringUtils {
         return matcher.match(pattern, url);
     }
 
-}
